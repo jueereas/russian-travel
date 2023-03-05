@@ -1,0 +1,19 @@
+.place__paragraph-wrapper {
+  grid-area: paragraph;
+  margin-bottom: 27px;
+}
+
+.place__paragraph-wrapper:last-child {
+  margin-bottom: 0;
+}
+
+
+@media screen and (max-width: 768px) {
+  .place__paragraph-wrapper {
+    margin-bottom: 25px;
+  }
+
+  .place__paragraph-wrapper:last-child {
+    margin-bottom: 0;
+  }
+}
