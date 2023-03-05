@@ -1,0 +1,7 @@
+.place__paragraph-wrapper {
+  grid-area: paragraph;
+}
+
+.place__paragraph-wrapper:nth-child(2) {
+  margin-bottom: 0;
+}
