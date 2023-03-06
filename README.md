@@ -15,4 +15,4 @@
 
 **GitHub**
 
-* [Ссылка на страницу GitHub](https://github.com/jueereas/russian-travel.git)
+* [Ссылка на страницу GitHub](jueereas.github.io/russian-travel/)
