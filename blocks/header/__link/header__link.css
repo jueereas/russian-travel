@@ -1,8 +1,0 @@
-.header__link {
-  text-decoration: none;
-  color: #fff;
-}
-
-.header__link:nth-child(1) {
-  margin: 0;
-}
